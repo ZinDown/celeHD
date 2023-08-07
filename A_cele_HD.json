@@ -1,6 +1,12 @@
 {
     "apyar": [
         {
+            "title": "Lisa HD (BackPink)",
+            "image": "https://raw.githubusercontent.com/ZinDown/celeHD/main/lisa.jpg",
+            "link": "https://raw.githubusercontent.com/ZinDown/celeHD/main/lisaHD",
+            "type": "x"
+        },
+        {
             "title": "Kuu HD(စမူစာEsport)",
             "image": "https://raw.githubusercontent.com/ZinDown/celeHD/main/kuuu.jpg",
             "link": "https://raw.githubusercontent.com/ZinDown/celeHD/main/kuuHD",
