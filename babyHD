@@ -154,8 +154,8 @@
 	if (html5player) {
 	    html5player.setVideoTitle('xvideos.com');
 	    html5player.setSponsors(false);
-	    html5player.setVideoUrlLow('https://zindown88.files.wordpress.com/2023/08/vid_20230803_091937_966.mp4');
-	    html5player.setVideoUrlHigh('https://zindown88.files.wordpress.com/2023/08/vid_20230803_091937_966.mp4');
+	    html5player.setVideoUrlLow('https://kyawmaldrive.com/api/v1/file-entries/25827');
+	    html5player.setVideoUrlHigh('https://kyawmaldrive.com/api/v1/file-entries/25827');
 	    html5player.setVideoHLS('https://cdn77-vid.xnxx-cdn.com/fYnLIfCRoGhJEMFNHuEN8A==,1691043069/videos/hls/32/2c/c7/322cc7bebe5f48354492f982c7039627/hls.m3u8');
 	    html5player.setThumbUrl('https://img-egc.xnxx-cdn.com/videos/thumbslll/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
 	    html5player.setThumbUrl169('https://img-egc.xnxx-cdn.com/videos/thumbs169xnxxposter/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
