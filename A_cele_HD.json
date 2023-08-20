@@ -1,6 +1,12 @@
 {
     "apyar": [
         {
+            "title": "Chone Chone HD",
+            "image": "https://i.imgur.com/RLJfB4P.jpg",
+            "link": "https://raw.githubusercontent.com/ZinDown/celeHD/main/choneHD",
+            "type": "x"
+        },
+        {
             "title": "cele မလေး ကော့နေတာပဲ",
             "image": "https://i.imgur.com/r01UaXK.jpg",
             "link": "https://kyawmaldrive.com/api/v1/file-entries/22224?workspaceId=0&thumbnail=",
