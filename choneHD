@@ -1,0 +1,32 @@
+<script>
+	logged_user = false;
+	var static_id_cdn = 10;
+	var html5player = new HTML5Player('html5video', '76309679');
+	if (html5player) {
+	    html5player.setVideoTitle('xvideos.com');
+	    html5player.setSponsors(false);
+	    html5player.setVideoUrlLow('https://github.com/ZinDown/celeHD/raw/main/chone.mp4');
+	    html5player.setVideoUrlHigh('https://github.com/ZinDown/celeHD/raw/main/chone.mp4');
+	    html5player.setVideoHLS('https://cdn77-vid.xnxx-cdn.com/fYnLIfCRoGhJEMFNHuEN8A==,1691043069/videos/hls/32/2c/c7/322cc7bebe5f48354492f982c7039627/hls.m3u8');
+	    html5player.setThumbUrl('https://img-egc.xnxx-cdn.com/videos/thumbslll/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
+	    html5player.setThumbUrl169('https://img-egc.xnxx-cdn.com/videos/thumbs169xnxxposter/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
+	    html5player.setRelated(video_related);
+	    html5player.setThumbSlide('https://img-egc.xnxx-cdn.com/videos/thumbs169/32/2c/c7/322cc7bebe5f48354492f982c7039627/mozaique.jpg');
+	    html5player.setThumbSlideBig('https://img-egc.xnxx-cdn.com/videos/thumbnails/8c/43/a8/76309679/mozaique_full.jpg');
+	    html5player.setThumbSlideMinute('https://img-egc.xnxx-cdn.com/videos/thumbnails/8c/43/a8/76309679/mozaiquemin_');
+	    html5player.setIdCDN('10');
+	    html5player.setIdCdnHLS('10');
+	    html5player.setFakePlayer(false);
+	    html5player.setDesktopiew(false);
+      html5player.setSeekBarColor('#286fff');
+	    html5player.setUploaderName('myanma_porn');
+	    html5player.setActivateFithteenPercentBorder();
+	    html5player.setVideoURL('/video76309679/_');
+	    html5player.setStaticPath('https://static-cdn77.xnxx-cdn.com/v-5705efead0b/v3/');
+	    html5player.setHttps();
+	    html5player.setCanUseHttps();
+	    document.getElementById('html5video').style.minHeight = '';
+	    html5player.initPlayer();
+   }
+
+</script>
