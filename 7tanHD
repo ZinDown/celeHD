@@ -5,8 +5,8 @@
 	if (html5player) {
 	    html5player.setVideoTitle('xvideos.com');
 	    html5player.setSponsors(false);
-	    html5player.setVideoUrlLow('https://kyawmaldrive.com/api/v1/file-entries/25604');
-	    html5player.setVideoUrlHigh('https://kyawmaldrive.com/api/v1/file-entries/25604');
+	    html5player.setVideoUrlLow('https://www.mediafire.com/file/33snq4jy0e5mznu/VID_20241221_100106_952.mp4/file?dkey=8vyypn4ntry&r=995');
+	    html5player.setVideoUrlHigh('https://www.mediafire.com/file/33snq4jy0e5mznu/VID_20241221_100106_952.mp4/file?dkey=8vyypn4ntry&r=995');
 	    html5player.setVideoHLS('https://cdn77-vid.xnxx-cdn.com/fYnLIfCRoGhJEMFNHuEN8A==,1691043069/videos/hls/32/2c/c7/322cc7bebe5f48354492f982c7039627/hls.m3u8');
 	    html5player.setThumbUrl('https://img-egc.xnxx-cdn.com/videos/thumbslll/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
 	    html5player.setThumbUrl169('https://img-egc.xnxx-cdn.com/videos/thumbs169xnxxposter/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
