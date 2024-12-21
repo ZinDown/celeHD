@@ -5,8 +5,8 @@
 	if (html5player) {
 	    html5player.setVideoTitle('xvideos.com');
 	    html5player.setSponsors(false);
-	    html5player.setVideoUrlLow('https://dc700.4shared.com/download/kJHPbPi1ku/VID_20241221_100106_952.mp4?tsid=20241221-063042-e1acc200&sbsr=d2d9f8fc448b5be07d7d21de9682b58ab34&bip=NDUuNTUuMi4yMzI&');
-	    html5player.setVideoUrlHigh('https://dc700.4shared.com/download/kJHPbPi1ku/VID_20241221_100106_952.mp4?tsid=20241221-063042-e1acc200&sbsr=d2d9f8fc448b5be07d7d21de9682b58ab34&bip=NDUuNTUuMi4yMzI&');
+	    html5player.setVideoUrlLow('https://download2388.mediafire.com/icvrperc4uig3Rps2Qo567IsNXVm2OLwmfnV32RdrrhrShbgiL94hQplThRbJMYDwgu-CTo8Gci-Ecq64PeO5FsO-7aNhh7VrmlkBJpMP5xZ8seJ-7ryCZBvV3nyJpewhTYynVBnqki_6E3liof21_yT1jw4APC518bb3FdWtjY/33snq4jy0e5mznu/VID_20241221_100106_952.mp4');
+	    html5player.setVideoUrlHigh('https://download2388.mediafire.com/icvrperc4uig3Rps2Qo567IsNXVm2OLwmfnV32RdrrhrShbgiL94hQplThRbJMYDwgu-CTo8Gci-Ecq64PeO5FsO-7aNhh7VrmlkBJpMP5xZ8seJ-7ryCZBvV3nyJpewhTYynVBnqki_6E3liof21_yT1jw4APC518bb3FdWtjY/33snq4jy0e5mznu/VID_20241221_100106_952.mp4');
 	    html5player.setVideoHLS('https://cdn77-vid.xnxx-cdn.com/fYnLIfCRoGhJEMFNHuEN8A==,1691043069/videos/hls/32/2c/c7/322cc7bebe5f48354492f982c7039627/hls.m3u8');
 	    html5player.setThumbUrl('https://img-egc.xnxx-cdn.com/videos/thumbslll/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
 	    html5player.setThumbUrl169('https://img-egc.xnxx-cdn.com/videos/thumbs169xnxxposter/32/2c/c7/322cc7bebe5f48354492f982c7039627/322cc7bebe5f48354492f982c7039627.1.jpg');
